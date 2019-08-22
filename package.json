@@ -24,6 +24,7 @@
     "redis": "^2.8.0"
   },
   "devDependencies": {
-    "nodemon": "^1.19.1"
+    "nodemon": "^1.19.1",
+    "webpack": "^4.39.2"
   }
 }
